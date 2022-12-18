@@ -1,4 +1,4 @@
-# ReCykle
+# ReCykle PowerToFly Diversity Hackathon
 
 #### Er Diagram
 <img src="ReCykle(2).png"/>
