@@ -1,7 +1,6 @@
 package com.ReCykleApp.module;
 
 import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.Pattern;
 
 import lombok.Data;
 
